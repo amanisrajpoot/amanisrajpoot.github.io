@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Milk the Cow",
+      "day": "Daily at 5 AM",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Feed the Crow",
+      "day": "Friday 7 PM",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Pet the Meow",
+      "day": "Tuesday 3 PM",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
